@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 
-span {
-    color: coral;
+div#container {
+    width: 16rem;
+    height: 20rem;
+
+    border: 3px solid #000;
 }
